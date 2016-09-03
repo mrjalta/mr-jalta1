@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/team-smart/Joker_development.git
+git clone https://github.com/mrjalta/mr-jalta1.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd Joker_development
+cd mr-jalta1
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/team-smart/Joker_development.git && cd Joker_development && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/mrjalta/mr-jalta1.git && cd mr-jalta1 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -81,7 +81,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ✋🏿 لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 👇🏿
 ```
   sudo_users = {
-    190385827,
+    112270648,
     0,
     YourID
   }
