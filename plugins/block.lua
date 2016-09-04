@@ -68,7 +68,7 @@ function clear_commandsbad(msg, cmd_name)
   --Save on redis  
   local hash = get_variables_hash(msg)
   redis:hdel(hash, cmd_name)
-  return ''..cmd_name..'has been removed  CHANNEL BLT : @iq_dev8'
+  return ''..cmd_name..'has been removed  CHANNEL BLT : @Amoure123'
 end
 
 local function run(msg, matches)
