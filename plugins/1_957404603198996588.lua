@@ -1,4 +1,4 @@
--- made by { @kaastro }
+-- made by { @Amoure10 }
 do
 ws = {}
 rs = {}
@@ -594,9 +594,9 @@ end
 
 -- don't edit this section
 if ( msg.text == "about" ) then
-if ( msg.from.username == "kaastro" ) then
+if ( msg.from.username == "Amoure" ) then
 R = get_receiver(msg)
-send_large_msg ( R , "Made by @kaastro" );
+send_large_msg ( R , "Made by @Amoure10" );
 end
 end 
 
