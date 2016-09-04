@@ -71,7 +71,7 @@ local function description_rules(msg, nama)
       local text = text.."                                               "
       local text = text.."Out of the group kickme ☹️"
       local text = text.."\n"
-      local text = text.."CHANNEL BOT : @help_tele"
+      local text = text.."CHANNEL BOT : @Amoure123"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
    end
