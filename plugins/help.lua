@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
 do
 
@@ -24,7 +24,7 @@ return [[جميع الاوامر تعمل بدون الاشارات [!#/]❌
 ■(h 3) : اوامر المطورين
 ⭐ 🔻🔺🔻🔺🔻🔺للتوصيل🔻🔺🔻🔺🔻 ⭐
 
-🚨 Dev - : @devss_bot  ◐ ♺
+🚨 Dev - : @Amoure10  ◐ ♺
 
 ]]
 end
