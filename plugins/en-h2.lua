@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
 do
 
@@ -61,10 +61,10 @@ _________________________
 🔸o join :منع الدخول عبر الرابط
 🔸c join :السماح  الدخول عبر الرابط
 🔹🔸🔹🔸🔹🔸🔹🔸🔹
-SUDO 1 [@sajademo] 🔱
-SUDO 2 [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel BOT : @tram_2
+SUDO 1 [@Amoure10] 🔱
+SUDO 2 [@Ghazw97] 🔱
+(Channel)@Amoure123 👾
+Channel BOT : @Tawasle1_bot
 
 ]]
 end
