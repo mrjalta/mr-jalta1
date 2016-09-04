@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY jOker                          ▀▄ ▄▀ 
-▀▄ ▄▀     BY joker       (@fuck_8_you)     ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY joker                 ▀▄ ▄▀   
+▀▄ ▄▀    BY Amoure                          ▀▄ ▄▀ 
+▀▄ ▄▀     BY Amoure       (@Amoure10)     ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Amoure                 ▀▄ ▄▀   
 ▀▄ ▄▀       broadcast  : م 2               ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -32,8 +32,8 @@ return [[🏆🏆 - اوامر الرفع + الكتم في الكروب👑👑
 ☑️ -قائمه العام  : لعرض المحضورين عام️
  :للتواصل مع المطور
 __________________
-🗯 - Dev - @devss_bot
-💭 - channel - @help_tele]]
+🗯 - Dev - @Amoure10
+💭 - channel - @Amoure123]]
 end
 
 if not is_momod(msg) then
