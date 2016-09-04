@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY jOker                          ▀▄ ▄▀ 
-▀▄ ▄▀     BY joker       (@fuck_8_you)     ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY joker                 ▀▄ ▄▀   
+▀▄ ▄▀    BY Amoure                          ▀▄ ▄▀ 
+▀▄ ▄▀     BY Amoure       (@Amoure10)     ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Amoure                 ▀▄ ▄▀   
 ▀▄ ▄▀       broadcast  : الطقس            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -37,7 +37,7 @@ local function get_weather(location)
     conditions = conditions .. 'مه 🌫'
   end
 
-  return temp .. '\n\n' .. conditions..'\n\nالمزيد : @help_tele'
+  return temp .. '\n\n' .. conditions..'\n\nالمزيد : @Amoure123'
 end
 local function DevPoint(msg, matches) 
     city = matches[1]
@@ -58,6 +58,6 @@ return {
 }
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
