@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY AMOURE ZIDAN                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY AMOURE ZIDAN (@Amoure10)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY AMOURE ZIDAN          ▀▄ ▄▀   
+▀▄ ▄▀    BY Amoure                ▀▄ ▄▀ 
+▀▄ ▄▀     BY Amoure (@Amoure10)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Amoure          ▀▄ ▄▀   
 ▀▄ ▄▀          Welcome  : ترحيب            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]] 
@@ -79,7 +79,7 @@ local function description_rules(msg, nama)
       local text = text.."قنـــأتـنأ تأبعونأَ هنـَأ [فضولك حيخليك تدخل هنا👇🏻]"
       local text = text..""
       local text = text.."                                               "
-      local text = text.."@help_telp \n✋🏿☝🏿️"
+      local text = text.."@Amoure123 \n✋🏿☝🏿️"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
    end
