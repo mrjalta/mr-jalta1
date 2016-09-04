@@ -1,6 +1,6 @@
 do
 
-local function joker(msg, matches)
+local function Amoure(msg, matches)
 if is_sudo(msg) then 
         local text = "✅- انت مطور  في الكون ".."\n".."🆔- ايدك/ج : "..msg.from.id.."\n".."🔖- اسمك/ج : "..msg.from.first_name.."\n".."🔤- المعرف : @"..msg.from.username.."\n".."🌐- اسم الكروب  "..msg.to.title --@DevPointTeam
         return reply_msg(msg.id, text, ok_cb, false)
@@ -22,7 +22,7 @@ return {
   patterns = {
        "^(شنو اني)$",
   },
-  run = joker,
+  run = Amoure,
 }
 
 end
