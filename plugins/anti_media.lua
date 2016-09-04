@@ -2,8 +2,8 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄ لتحذف حقوق بذمتك🚶🏻 
-      #CODS CREATED By ~ @JALAL_ALDON 
-      please join to Channel Oscar Team @OSCARBOTv2 
+      #CODS CREATED By ~ @Amoure
+      please join to Channel Amoure Team @Amoure123 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
 --]]
