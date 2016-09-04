@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
 do
 
@@ -43,9 +43,9 @@ return [[
 مساعدة لظهار ىالاوامر الرئيسية 
 🔸➖🔹➖🔸➖🔹➖🔸
 #المطور 
-@devss_bot
+@Amoure10
 كروب دعم البوت
-@sunbot_dev
+@Tawasle1_bot
 ]]
 end
 
