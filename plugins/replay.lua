@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]] 
 do 
 ws = {} 
@@ -18,7 +18,7 @@ rs[2] =  "مووواح فدوه لربك❤️🙈" -- reply
 ws[3] = "سان" -- msg 
 rs[3] =  "ها حياتي😻❤️" -- reply 
 
-ws[4] = "جوكر" -- msg 
+ws[4] = "سماعه" -- msg 
 rs[4] = "هذا الي صنعني فديت ربه 🙈❤️" -- reply 
 
 ws[5] = "شلونكم" -- msg 
