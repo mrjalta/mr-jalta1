@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
 do 
 
@@ -11,13 +11,13 @@ if ( msg.text ) then
 
   if ( msg.to.type == "user" ) then
 
-     return "اضغط ع المعرف للتحدث مع لصنعني \n @devss_bot \n  👾 "
+     return "اضغط ع المعرف للتحدث مع لصنعني \n @Amoure10 \n  👾 "
      
   end 
    
 end 
 
--- #DEV @devss_bot
+-- #DEV @Amoure10
 
 end 
 
