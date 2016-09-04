@@ -1,7 +1,7 @@
 --[[
 # For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
+# Developer : Amoure < @Tawasle1_bot >      #Dev
+# our channel: @Amoure123
 ]]
 local function save_value(msg, name, value)
   if (not name or not value) then
