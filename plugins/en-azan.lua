@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY jOker                          ▀▄ ▄▀ 
-▀▄ ▄▀     BY joker       (@fuck_8_you)     ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY joker                 ▀▄ ▄▀   
+▀▄ ▄▀    BY Amoure                          ▀▄ ▄▀ 
+▀▄ ▄▀     BY Amoure       (@Amoure10)     ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Amoure                 ▀▄ ▄▀   
 ▀▄ ▄▀       broadcast  : الاذان             ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -79,7 +79,7 @@ function DevPoint(msg, matches)
 	  text = text..'\n🕌الغروب: '..data.Sunset
 	  text = text..'\n🕌آذان المغرب: '..data.Maghrib
 	  text = text..'\n🕌آذان العشاء : '..data.Isha
-	  text = text..'\n\nchannel : @help_tele'
+	  text = text..'\n\nchannel : @Amoure123'
 	if string.match(text, '0') then text = string.gsub(text, '0', '0') end
 	if string.match(text, '1') then text = string.gsub(text, '1', '1') end
 	if string.match(text, '2') then text = string.gsub(text, '2', '2') end
