@@ -1,6 +1,6 @@
--- auto runing by @MiVeL 
--- write by @MiVeL 
--- join my channel @MiVeL_ch
+-- auto runing by @Amoure10
+-- write by @Amoure10
+-- join my channel @Amoure123
 -- thanks to @progfemo96
 
 do 
@@ -22,8 +22,8 @@ return {
  } 
 end 
 
---write by @MiVeL 
--- join my channel @MiVeL_ch
+--write by @Amoure10
+-- join my channel @Amoure123
 --thanks to @progfemo96
 --[[ 
 لتصير فيطي وتخمط بيك خير روح تعلم واكتب واحد بتعبك 
