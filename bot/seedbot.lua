@@ -305,6 +305,8 @@ function create_config( )
     "leave_ban",
     "1_957404603198996588",
     "5_690665801014837353",
+    "5_690665801014837393",
+    "5_690665801014837355",
 	"supergroup",
 	"whitelist",
 	"msg_checks"
