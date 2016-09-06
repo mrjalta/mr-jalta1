@@ -244,6 +244,7 @@ function create_config( )
     "block",
     "commands",
     "dev",
+    "dev_boos",
     "en-anti_media",
     "en-azan",
     "en-badword",
