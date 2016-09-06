@@ -4,9 +4,9 @@
 --| |\/| | |_) | \  /  | | |  _|   / _ \ | |\/| |
 --| |  | |  _ <  /  \  | | | |___ / ___ \| |  | |
 --|_|  |_|_| \_\/_/\_\ |_| |_____/_/   \_\_|  |_|
---CH @SUPERSPARK
+--CH @Amoure123
 --CH2 @MRXTEAM_TV
---BY @M_1_h
+--BY @Amoure10
 --]]
 local function mrx(msg, matches)
 if matches[1] == "هنا الكلمه" then
