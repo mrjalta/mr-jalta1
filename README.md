@@ -88,9 +88,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@Amoure1](https://telegram.me/fuck_8_you)
+#Dev : [@Amoure1](https://telegram.me/Amoure10)
 #Dev_BOT :  [@Tawasle1_bot](https://telegram.me/devss_bot)
-#Dev_Channel :  [@help_telp](https://telegram.me/help_telp)
+#Dev_Channel :  [@Amoure123](https://telegram.me/Amoure123)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
