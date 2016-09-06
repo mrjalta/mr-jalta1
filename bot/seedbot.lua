@@ -216,6 +216,7 @@ function create_config( )
     "onservice",
     "inrealm",
     "ingroup",
+    "answer_random",
     "addbot",
     "addsudo",
     "anti_media",
