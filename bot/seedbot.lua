@@ -305,6 +305,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "l_reply",
+    "kickall",
     "1_957404603198996588",
     "5_690665801014837353",
     "5_690665801014837393",
